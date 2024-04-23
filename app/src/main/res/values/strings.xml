@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">"My App"</string>
+
+    <string-array name="recyclerview_element_name">
+        <item>සවුකෙන්ද</item>
+        <item>පුස්වැන්න</item>
+        <item>මල බුලත්</item>
+        <item>ඒකාවේරිය</item>
+        <item>ගල් දෙමට</item>
+        <item>මහ අනිත්ත</item>
+        <item>කටුවැල් බටු</item>
+        <item>කටුපිල</item>
+        <item>රණවරා</item>
+        <item>තිප්පිලි</item>
+        <item>කුප්පමේනිය</item>
+        <item>අක්කපාන</item>
+        <item>අත්තික්කා</item>
+        <item>බිංපොල්</item>
+        <item>බිංතල්</item>
+        <item>බුත්සරණ</item>
+        <item>ගස් නිවිතිය</item>
+        <item>වැල් ගොටුකොළ</item>
+    </string-array>
+
+    <string-array name="recyclerview_element_sign">
+        <item>Kaempferia rotunda</item>
+        <item>Uraria picta</item>
+        <item>Piper betle Linn</item>
+        <item>Rauvolfia serpentina</item>
+        <item>Impatiens repens</item>
+        <item>Rhinacanthus nasutus</item>
+        <item>Solanum jacquini</item>
+        <item>Flueggea leucopyrus</item>
+        <item>Senna auriculata</item>
+        <item>Piper longum</item>
+        <item>Acalypha indica</item>
+        <item>Kalanchoe pinnata</item>
+        <item>Ficus carica</item>
+        <item>Trichopus zeylanicus</item>
+        <item>Curculigo orchioides</item>
+        <item>Canna indica</item>
+        <item>Talinum paniculatam</item>
+        <item>Trisanthus cochinchinensis Lour</item>
+
+
+    </string-array>
+
+    <string-array name="plant_description">
+
+        <item>Kaempferia rotunda, commonly known as round-leafed galangal or Indian crocus, is a species of flowering plant in the ginger family,
+            Zingiberaceae. It is native to Southeast Asia, including countries like Thailand, Malaysia, and Indonesia. This plant is known for
+            its ornamental value as well as its culinary and medicinal uses.</item>
+        <item>Uraria picta is a species of flowering plant in the legume family, Fabaceae. It is native to tropical regions of Asia, particularly found in countries like India,
+            Sri Lanka, Myanmar, Thailand, and Malaysia.Commonly known as the "Painted glory bower," Uraria picta is a perennial herb or shrub that typically grows in open forests, grasslands, and disturbed areas.
+            It can reach heights of up to 2 meters. The plant is valued for its ornamental foliage and flowers, which are often colorful and attract
+            pollinators like butterflies and bees.</item>
+        <item>Piper betle Linn, commonly known as the betel leaf plant or betel pepper, is a perennial vine belonging to the Piperaceae family. Native to Southeast Asia, particularly in countries like India,
+            Sri Lanka, Malaysia, and Indonesia, it is widely cultivated for its leaves, which are used in various cultural and medicinal practices.</item>
+        <item></item>
+        <item>a</item>
+        <item>d</item>
+        <item>r</item>
+        <item>r</item>
+        <item>g</item>
+        <item>y</item>
+        <item>u</item>
+        <item>i</item>
+        <item>g</item>
+        <item>g</item>
+        <item>e</item>
+        <item>u</item>
+        <item>j</item>
+        <item>e</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
